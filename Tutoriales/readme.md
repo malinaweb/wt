@@ -1,1 +1,1 @@
-Aquí irán los archivos de ayuda tipo tutorial
+Aquí irán los archivos de ayuda de la carpeta Tutoriales
